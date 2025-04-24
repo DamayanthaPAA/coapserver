@@ -1,0 +1,24 @@
+{
+  "name": "coapserver",
+  "version": "1.0.0",
+  "description": "coap server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamayanthaPAA/coapserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DamayanthaPAA/coapserver/issues"
+  },
+  "homepage": "https://github.com/DamayanthaPAA/coapserver#readme",
+  "dependencies": {
+    "coap": "^1.4.1"
+  }
+}
