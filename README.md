@@ -157,5 +157,5 @@ To implement on actual hardware sensors:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
+## CoAP Server and Client , data processing screenshot.
 ![alt text](image.png)
